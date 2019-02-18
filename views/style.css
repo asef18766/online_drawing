@@ -1,0 +1,26 @@
+.map {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    border: 1px solid #000000;
+}
+
+body {
+    background-color: rgb(55, 173, 32);
+}
+
+.pick {
+    position: absolute;
+    height: 50px;
+    width: 100px;
+    left: 1300px;
+}
+
+#online {
+    position: absolute;
+    height: 20px;
+    width: 200px;
+    left: 50px;
+    top: 5px;
+    font-size: 30px;
+}
